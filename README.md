@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Muthu Here! 👋
 
 <!--
 **MuthuPalaniappan925/MuthuPalaniappan925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MuthuPalaniappan925&theme=dark)](https://git.io/streak-stats)
