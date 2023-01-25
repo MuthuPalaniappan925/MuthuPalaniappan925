@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="center" width=800 height=500 src="https://github.com/MuthuPalaniappan925/MuthuPalaniappan925/blob/main/Muthu%20Palaniappan.gif"/>
 
 ### :fire: My Stats :
 
