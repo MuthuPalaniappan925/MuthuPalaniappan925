@@ -30,3 +30,19 @@ Here are some ideas to get you started:
 <br>
   <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
 <br>
+<table>
+<caption>Muthu Palaniappan M</caption>
+<thead>
+<tr>
+<th colspan="2">Quick Info</th>
+</tr>
+</thead>
+<tbody>
+<tr><th scope='row'>Name</th><td>Muthu Palaniappan M</td></tr>
+<tr><th scope='row'>Born</th><td><time datetime="2004-01-26 08:00">26 January, 2004</time></td></tr>
+<tr><th scope='row'>Education</th><td>CSE</td></tr>
+<tr><th scope='row'>Alma mater</th><td>Shiv Nadar University Chennai</td></tr>
+<tr><th scope='row'>Nationality</th><td>Indian</td></tr>
+<tr><th scope='row'>Occupation</th><td>Student</td></tr>
+</tbody>
+</table>
