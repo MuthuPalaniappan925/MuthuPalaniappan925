@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 <br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MuthuPalaniappan925&theme=dark)](https://git.io/streak-stats)
 <br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuthuPalaniappan925&theme=github_dark)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuthuPalaniappan925&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)
 ### Message for you :
 <br>
