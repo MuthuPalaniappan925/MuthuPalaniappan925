@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 ### :fire: My Stats :
 ![MuthuPalaniappanM's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MuthuPalaniappan925&theme=tokyo-night)
 <br>
+<img src="https://github.com/MuthuPalaniappan925/MuthuPalaniappan925/blob/main/download.svg" width=800 height=500 width="100%">
+<br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MuthuPalaniappan925&theme=dark)](https://git.io/streak-stats)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuthuPalaniappan925&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)
