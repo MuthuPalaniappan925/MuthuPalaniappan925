@@ -16,33 +16,22 @@ Here are some ideas to get you started:
 -->
 <img align="center" width=800 height=500 src="https://github.com/MuthuPalaniappan925/MuthuPalaniappan925/blob/main/Muthu%20Palaniappan.gif"/>
 
-### :fire: My Stats :
-![MuthuPalaniappanM's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MuthuPalaniappan925&theme=tokyo-night)
+
+<details>
+  <summary>:zap: GitHub Statitics</summary>
+
+  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MuthuPalaniappan925&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MuthuPalaniappan925&theme=dark&hide_border=true)](https://git.io/streak-stats)
+</details>
+
+## Quote of the Hour 📣
+Please help yourself with a quote before you go. Check back at the top of the hour for a new quote.
 <br>
-<img src="https://github.com/MuthuPalaniappan925/MuthuPalaniappan925/blob/main/download.svg" width=800 height=500 width="100%">
 <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MuthuPalaniappan925&theme=dark)](https://git.io/streak-stats)
+
+> <b>I'm never less at leisure than when at leisure, or less alone than when alone.</b>
+> <p><i>Scipio Africanus</i></p>
+
 <br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuthuPalaniappan925&theme=github_dark)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuthuPalaniappan925&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)
-### Message for you :
-<br>
-  <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
-<br>
-<table>
-<caption>Muthu Palaniappan M</caption>
-<thead>
-<tr>
-<th colspan="2">Quick Info</th>
-</tr>
-</thead>
-<tbody>
-<tr><th scope='row'>Name</th><td>Muthu Palaniappan M</td></tr>
-<tr><th scope='row'>Born</th><td><time datetime="2004-01-26 08:00">26 January, 2004</time></td></tr>
-<tr><th scope='row'>Education</th><td>CSE</td></tr>
-<tr><th scope='row'>Alma mater</th><td>Shiv Nadar University Chennai</td></tr>
-<tr><th scope='row'>Nationality</th><td>Indian</td></tr>
-<tr><th scope='row'>Occupation</th><td>Student</td></tr>
-</tbody>
-</table>
